@@ -1,5 +1,4 @@
 # Sasidhar
-Meditations.
 
 Today is Thursday, 18th Dec 2025. I am writing this.
 It's been almost 2 yrs into software industry. I have worked on python based AI wrappers in these 2 yrs in my current company, that i got placed right after college. The wrapper apps are react-typescript frontend / python-fastapi backend. 
